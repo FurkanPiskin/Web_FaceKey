@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|c:\\users\\bozku\\desktop\\facekey_ backend\\face_key\\face_key\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|solutionrelative:face_key\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|c:\\users\\bozku\\desktop\\facekey_ backend\\face_key\\face_key\\models\\entity\\facerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|solutionrelative:face_key\\models\\entity\\facerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|c:\\users\\bozku\\desktop\\facekey_ backend\\face_key\\face_key\\models\\entity\\face.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|solutionrelative:face_key\\models\\entity\\face.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|c:\\users\\bozku\\desktop\\facekey_ backend\\face_key\\face_key\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|solutionrelative:face_key\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|c:\\users\\bozku\\desktop\\facekey_ backend\\face_key\\face_key\\controllers\\facescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|solutionrelative:face_key\\controllers\\facescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|c:\\users\\bozku\\desktop\\facekey_ backend\\face_key\\face_key\\models\\entity\\cameraframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|solutionrelative:face_key\\models\\entity\\cameraframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|c:\\users\\bozku\\desktop\\facekey_ backend\\face_key\\face_key\\models\\dto\\cameraframedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|solutionrelative:face_key\\models\\dto\\cameraframedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|c:\\users\\bozku\\desktop\\facekey_ backend\\face_key\\face_key\\models\\dto\\facedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|solutionrelative:face_key\\models\\dto\\facedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|c:\\users\\bozku\\desktop\\facekey_ backend\\face_key\\face_key\\models\\dto\\facestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|solutionrelative:face_key\\models\\dto\\facestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|c:\\users\\bozku\\desktop\\facekey_ backend\\face_key\\face_key\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|solutionrelative:face_key\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|c:\\users\\bozku\\desktop\\facekey_ backend\\face_key\\face_key\\data\\migrations\\20241206194510_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|solutionrelative:face_key\\data\\migrations\\20241206194510_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|c:\\users\\bozku\\desktop\\facekey_ backend\\face_key\\face_key\\data\\migrations\\20241212155553_addfacerecordtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|solutionrelative:face_key\\data\\migrations\\20241212155553_addfacerecordtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|c:\\users\\bozku\\desktop\\facekey_ backend\\face_key\\face_key\\data\\migrations\\20241213223022_addcameraframetable2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|solutionrelative:face_key\\data\\migrations\\20241213223022_addcameraframetable2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|c:\\users\\bozku\\desktop\\facekey_ backend\\face_key\\face_key\\data\\migrations\\20241213222714_removecameraframetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|solutionrelative:face_key\\data\\migrations\\20241213222714_removecameraframetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|c:\\users\\bozku\\desktop\\facekey_ backend\\face_key\\face_key\\data\\migrations\\20241213221150_addcameraframetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5483E564-0053-4655-98BD-4ED4ABC5376F}|Face_Key\\Face_Key.csproj|solutionrelative:face_key\\data\\migrations\\20241213221150_addcameraframetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Program.cs",
+              "RelativeDocumentMoniker": "Face_Key\\Program.cs",
+              "ToolTip": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Program.cs",
+              "RelativeToolTip": "Face_Key\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAuwD8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:39:53.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Face.cs",
+              "DocumentMoniker": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Models\\Entity\\Face.cs",
+              "RelativeDocumentMoniker": "Face_Key\\Models\\Entity\\Face.cs",
+              "ToolTip": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Models\\Entity\\Face.cs",
+              "RelativeToolTip": "Face_Key\\Models\\Entity\\Face.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:28:10.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FaceRecord.cs",
+              "DocumentMoniker": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Models\\Entity\\FaceRecord.cs",
+              "RelativeDocumentMoniker": "Face_Key\\Models\\Entity\\FaceRecord.cs",
+              "ToolTip": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Models\\Entity\\FaceRecord.cs",
+              "RelativeToolTip": "Face_Key\\Models\\Entity\\FaceRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:48:27.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Face_Key\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Face_Key\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:31:45.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FaceStatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Models\\Dto\\FaceStatusDto.cs",
+              "RelativeDocumentMoniker": "Face_Key\\Models\\Dto\\FaceStatusDto.cs",
+              "ToolTip": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Models\\Dto\\FaceStatusDto.cs",
+              "RelativeToolTip": "Face_Key\\Models\\Dto\\FaceStatusDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:15:30.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FaceDto.cs",
+              "DocumentMoniker": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Models\\Dto\\FaceDto.cs",
+              "RelativeDocumentMoniker": "Face_Key\\Models\\Dto\\FaceDto.cs",
+              "ToolTip": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Models\\Dto\\FaceDto.cs",
+              "RelativeToolTip": "Face_Key\\Models\\Dto\\FaceDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:20:18.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CameraFrameDto.cs",
+              "DocumentMoniker": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Models\\Dto\\CameraFrameDto.cs",
+              "RelativeDocumentMoniker": "Face_Key\\Models\\Dto\\CameraFrameDto.cs",
+              "ToolTip": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Models\\Dto\\CameraFrameDto.cs",
+              "RelativeToolTip": "Face_Key\\Models\\Dto\\CameraFrameDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:07:36.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CameraFrame.cs",
+              "DocumentMoniker": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Models\\Entity\\CameraFrame.cs",
+              "RelativeDocumentMoniker": "Face_Key\\Models\\Entity\\CameraFrame.cs",
+              "ToolTip": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Models\\Entity\\CameraFrame.cs",
+              "RelativeToolTip": "Face_Key\\Models\\Entity\\CameraFrame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:22:18.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FacesController.cs",
+              "DocumentMoniker": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Controllers\\FacesController.cs",
+              "RelativeDocumentMoniker": "Face_Key\\Controllers\\FacesController.cs",
+              "ToolTip": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Controllers\\FacesController.cs",
+              "RelativeToolTip": "Face_Key\\Controllers\\FacesController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAowHEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:37:55.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241213222714_RemoveCameraFrameTable.cs",
+              "DocumentMoniker": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Data\\Migrations\\20241213222714_RemoveCameraFrameTable.cs",
+              "RelativeDocumentMoniker": "Face_Key\\Data\\Migrations\\20241213222714_RemoveCameraFrameTable.cs",
+              "ToolTip": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Data\\Migrations\\20241213222714_RemoveCameraFrameTable.cs",
+              "RelativeToolTip": "Face_Key\\Data\\Migrations\\20241213222714_RemoveCameraFrameTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:27:14.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241213223022_AddCameraFrameTable2.cs",
+              "DocumentMoniker": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Data\\Migrations\\20241213223022_AddCameraFrameTable2.cs",
+              "RelativeDocumentMoniker": "Face_Key\\Data\\Migrations\\20241213223022_AddCameraFrameTable2.cs",
+              "ToolTip": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Data\\Migrations\\20241213223022_AddCameraFrameTable2.cs",
+              "RelativeToolTip": "Face_Key\\Data\\Migrations\\20241213223022_AddCameraFrameTable2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:30:22.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241213221150_AddCameraFrameTable.cs",
+              "DocumentMoniker": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Data\\Migrations\\20241213221150_AddCameraFrameTable.cs",
+              "RelativeDocumentMoniker": "Face_Key\\Data\\Migrations\\20241213221150_AddCameraFrameTable.cs",
+              "ToolTip": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Data\\Migrations\\20241213221150_AddCameraFrameTable.cs",
+              "RelativeToolTip": "Face_Key\\Data\\Migrations\\20241213221150_AddCameraFrameTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:11:50.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241212155553_AddFaceRecordTable.cs",
+              "DocumentMoniker": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Data\\Migrations\\20241212155553_AddFaceRecordTable.cs",
+              "RelativeDocumentMoniker": "Face_Key\\Data\\Migrations\\20241212155553_AddFaceRecordTable.cs",
+              "ToolTip": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Data\\Migrations\\20241212155553_AddFaceRecordTable.cs",
+              "RelativeToolTip": "Face_Key\\Data\\Migrations\\20241212155553_AddFaceRecordTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:55:53.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\appsettings.json",
+              "RelativeDocumentMoniker": "Face_Key\\appsettings.json",
+              "ToolTip": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\appsettings.json",
+              "RelativeToolTip": "Face_Key\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-06T18:42:51.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241206194510_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Data\\Migrations\\20241206194510_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Face_Key\\Data\\Migrations\\20241206194510_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\bozku\\Desktop\\FaceKey_ Backend\\Face_Key\\Face_Key\\Data\\Migrations\\20241206194510_InitialMigration.cs",
+              "RelativeToolTip": "Face_Key\\Data\\Migrations\\20241206194510_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T19:45:10.528Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+/* FaceScanner.css */
+.scanner-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: url("../src/assets/face_man2.webp") no-repeat center center/cover;
+    background-color: #1a1a2e; /* Arka plan koyu mavi 
+    color: white; /* Yazılar beyaz */
+    font-family: Arial, sans-serif;
+  }
+  
+  .face-frame {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%; /* Çerçeveyi yuvarlak yapar */
+    overflow: hidden;
+    box-shadow: 0 0 15px 5px rgba(0, 255, 0, 0.6); /* Mavi parlama efekti */
+    border: 1px solid #00ff00;
+  }
+  
+  .camera-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Videoyu çerçeveye sığdır */
+  }
+  
+  .face-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.3); /* Hafif karartma efekti */
+    z-index: 1;
+  }
+  
+  .face-lines {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    z-index: 2;
+  }
+  
+  .face-lines::before,
+  .face-lines::after {
+    content: "";
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border: 2px solid rgba(0, 255, 255, 0.8);
+  }
+  
+  .face-lines::before {
+    top: 0;
+    left: 0;
+    border-top-left-radius: 20px;
+  }
+  
+  .face-lines::after {
+    bottom: 0;
+    right: 0;
+    border-bottom-right-radius: 20px;
+  }
+  
+  .scanning-text {
+    margin-top: 20px;
+    font-size: 18px;
+    color: rgba(255, 0, 0, 0.896);
+    animation: scanning 1.5s infinite;
+  }
+  .detected-face-name{
+    font-size: 46px;
+    box-shadow: 0 0 15px 5px rgba(0, 255, 0, 0.6);
+    color:#00ff00;
+    border: 1px solid #00ff00;
+    animation: scanning 1.5s infinite;
+  }
+  .info-text{
+   
+   font-weight: bold;
+  }
+  
+  /* Tarama animasyonu */
+  @keyframes scanning {
+    0% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0.5;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
